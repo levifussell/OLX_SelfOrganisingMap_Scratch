@@ -1,6 +1,10 @@
 # OLX_SelfOrganisingMap_Scratch
 An upload of work done for the OLX 2017 competition on hackerrank.com. I am working on formalising the concepts into a SOM library. For now the gist is to use SOMs as a form of recommendation system for adverts.
 
+Background:
+1. Self-Organising Maps: https://www.wikiwand.com/en/Self-organizing_map
+2. Jaccard Distance: https://www.wikiwand.com/en/Jaccard_index
+
 # Brief Outline of Files
 ## 1.) DataAnalysis.ipynb
 Preprocessing steps to understand the data and possible cleaning. Other than getting a feel for the data, the most important step was utilising the Pareto distribution to decrease the dataset by five-fold.
