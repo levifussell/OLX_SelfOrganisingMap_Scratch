@@ -13,6 +13,7 @@ Here I also started testing out my first SOM implementation on the data.
 ## 2.) KohonenMap.ipynb
 More functional implementation of SOM and started testing some metrics. There are some notes on various hyperparams, but alot of this was done on scratch paper and isn't on the notebook (sadly).
 Note: I copied a large portion of the previous notebook to this one so that the data pre-processing was done for me, hence the random data cells.
+Note2: Ignore error printouts of Memory and bad matrix matching - these were post-competition experiments that went awry. Additionally "KohonenMapWithCategory.ipynb" was where the final work went into.
 
 ## 3.) KohonenMapWithCategory.ipynb
 Same SOM as before, but we adjust the implementation to make use of weights that emphasise categories in the ads. Results are much better.
